@@ -32,7 +32,7 @@ My Academic information: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230
 ![](https://github-contributor-stats.vercel.app/api?username=JuanPedroMarquez&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ### 😂 Meme!
-![Abuelo](https://pbs.twimg.com/media/GF0fR4ubYAAWFci.jpg)
+<!--![Abuelo](https://pbs.twimg.com/media/GF0fR4ubYAAWFci.jpg) -->
 ![Statisticians](https://imgb.ifunny.co/images/e9f25be601dbb9d5f0cb2b04bd596994e76e961a780690057654611a36ef869a_1.jpg)
 ---
 
