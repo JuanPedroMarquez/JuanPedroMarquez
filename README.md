@@ -10,6 +10,11 @@
 
 I hope that I can build an interesting profile with cool projects for everyone to learn. My main language is spanish, but I will eventually upload my projects in English too so that it is more accessible to people. <br> That being said, have a very nice day!
 
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=JuanPe&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!---
 JuanPedroMarquez/JuanPedroMarquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
