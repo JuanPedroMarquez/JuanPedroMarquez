@@ -1,4 +1,4 @@
-   # 👋 Hi, I’m Juan Pedro! Welcome to my Github Profile 😁
+# 👋 Hi, I’m Juan Pedro! Welcome to my Github Profile 😁
 ## I am an Economist. I studied my bachelors degree in the University of A Coruña and a Master in Economics in the Carlos III University of Madrid (UC3M). <br><br> I received deep formation in microeconomics, macroeconomics, statistics and econometrics subjects, which made me a statistics passionate and enjoyer. <br><br> I am currently redirecting my professional career towards the Data Analysis by learning Python, MySQL and Azure. <br> In addition to that, I also have worked with other programs such as RStudio, Stata, EViews, Gretl and MatLab in diverse economic contexts (linear regressions, non-linear regressions, time series analysis, forecasting, economic modeling, Impulse-Response Function of the economy in the case of a shock, etc.).
 
 ### About Me!
