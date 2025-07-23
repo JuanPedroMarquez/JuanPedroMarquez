@@ -5,7 +5,7 @@
 - 🌍 I live in Galicia, Spain, and I am 24 years old.
 - 🎸 I like heavy metal and videogames.
 - 👀 I like Statistics and Data Analysis.
-- 🤣 I like memes. 
+- 🤣 I like memes.
 
 I hope that I can build an interesting profile with cool projects for everyone to learn. My main language is spanish, but I will eventually upload my projects in English too so that it is more accessible to people.
 That being said, have a very nice day!
